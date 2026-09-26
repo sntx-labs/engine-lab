@@ -6,12 +6,17 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "labs:dev": "node scripts/labs-serve.mjs",
+    "labs:build": "node scripts/labs-build.mjs",
+    "labs:verify": "node scripts/labs-verify.mjs",
+    "labs:authoring": "node scripts/labs-authoring.mjs"
   },
   "dependencies": {
     "tweakpane": "^4.0.0"
   },
   "devDependencies": {
     "vite": "^5.4.0"
-  }
+  },
+  "private": true
 }
