@@ -30,3 +30,9 @@ npm run build
 
 This project is licensed under `CC BY 4.0` and requires attribution:
 https://creativecommons.org/licenses/by/4.0/
+
+## Custom implementation
+
+Want an experience like this, designed for your product? Work with Syntax on a custom implementation: [sntx.co](https://sntx.co/).
+
+Follow [@taylor_sntx](https://x.com/taylor_sntx) for more experiments.
